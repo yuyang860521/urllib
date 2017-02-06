@@ -54,7 +54,7 @@
     "power-assert": "^1.4.2",
     "semver": "5",
     "should": "8",
-    "should-http": "*",
+    "should-http": "0.1.0",
     "tar": "^2.2.1",
     "through2": "^2.0.3"
   },
